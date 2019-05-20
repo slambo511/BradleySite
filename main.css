@@ -1,0 +1,44 @@
+body {
+	background-color: #A9FDFF;
+	width: 50%;
+	text-align: center;
+	margin-left: 25%;
+	margin-right: 25%;
+}
+
+p {
+	background-color: green;
+}
+
+#two {
+	background-color: orange;
+}
+
+#three {
+	background-color: cyan;
+}
+
+.one {
+	background-color: red;
+	text-align: center;
+}
+
+.link {
+	color: #000000;
+	font-size: 50px;
+}
+
+.link:hover {
+	color: #ff0000;
+	font-size: 75px;
+	font-family: ComicSans;
+}
+
+.h1class {
+	background-color: pink;
+}
+
+.myfont {
+	font-family: consolas;
+	font-size: 18px;
+}
